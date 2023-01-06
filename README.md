@@ -1,5 +1,5 @@
 # TitanoBoa
- This is a Discord-like chat application
+ This is a Discord-like chat application using Django (with the guidance of youtuber Mr.Dennis Ivy)
  
 Authentication: Developed a secure authentication system for the user to log in or sign up.
 
@@ -11,3 +11,10 @@ for the desired topic or chat-room, an activity feed to track the recent events 
 Added CSRF tokens to protect the website from malicious attacks.
 
 API: Built a REST API using Django REST Framework.
+
+(Special 
+![image](https://user-images.githubusercontent.com/77957630/211077387-c5df948a-6e35-438c-9258-4a4e384f21fe.png)
+
+![image](https://user-images.githubusercontent.com/77957630/211076534-aa071c03-46ba-416b-93b4-e7585ffd6ad4.png)
+
+![image](https://user-images.githubusercontent.com/77957630/211077433-444c6039-e732-4d96-adb2-a7a333bad620.png)
