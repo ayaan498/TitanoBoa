@@ -11,8 +11,7 @@ for the desired topic or chat-room, an activity feed to track the recent events 
 Added CSRF tokens to protect the website from malicious attacks.
 
 
-![image](https://user-images.githubusercontent.com/77957630/211077387-c5df948a-6e35-438c-9258-4a4e384f21fe.png)
 
-![image](https://user-images.githubusercontent.com/77957630/211076534-aa071c03-46ba-416b-93b4-e7585ffd6ad4.png)
 
-![image](https://user-images.githubusercontent.com/77957630/211078070-71d48f49-8675-469f-b28e-682aa3a1c8c8.png)
+https://user-images.githubusercontent.com/77957630/219856056-69ec029e-8cb8-45db-a308-a9e0b9eeec44.mp4
+
